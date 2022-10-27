@@ -1,0 +1,78 @@
+"C:\Program Files\Java\jdk-17.0.4.1\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.2\lib\idea_rt.jar=64823:C:\Program Files\JetBrains\IntelliJ IDEA 2022.2.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\79215\Desktop\ИТМО\Программирование\Лабы(1 из 4)\Lab-2\Lab-2\out\production\Lab-2;C:\Users\79215\Desktop\ИТМО\Программирование\Лабы(1 из 4)\Lab-2\Lab-2\lib\Pokemon.jar" Main
+Bellsprout Старый из команды белых вступает в бой!
+Onix Жирный из команды полосатых вступает в бой!
+Onix Жирный Использует Dragon Breath. 
+Bellsprout Старый теряет 4 здоровья.
+Bellsprout Старый парализован
+
+Bellsprout Старый Использует Swagger. 
+Onix Жирный увеличивает атаку.
+
+Onix Жирный Использует Screech. 
+Bellsprout Старый уменьшает защиту.
+
+
+Bellsprout Старый Использует Swagger. 
+Onix Жирный увеличивает атаку.
+
+Onix Жирный Использует Dragon Breath. 
+Bellsprout Старый теряет 3 здоровья.
+
+Bellsprout Старый Использует Sludge Bomb. 
+Критический удар!
+Onix Жирный теряет 5 здоровья.
+
+Onix Жирный растерянно попадает по себе. 
+Onix Жирный теряет 4 здоровья.
+
+Bellsprout Старый Использует Sludge Bomb. 
+Критический удар!
+Onix Жирный теряет 5 здоровья.
+Onix Жирный теряет сознание.
+Terrakion Косой из команды полосатых вступает в бой!
+Bellsprout Старый Использует Swagger. 
+Terrakion Косой увеличивает атаку.
+
+Terrakion Косой Использует Aerial Ace. 
+Bellsprout Старый теряет 4 здоровья.
+
+Bellsprout Старый Использует Swagger. 
+Terrakion Косой увеличивает атаку.
+
+Terrakion Косой промахивается
+
+Bellsprout Старый Использует Sludge Bomb. 
+Критический удар!
+Terrakion Косой теряет 8 здоровья.
+
+Terrakion Косой Использует X-Scissor. 
+Bellsprout Старый теряет 3 здоровья.
+Bellsprout Старый теряет сознание.
+Steelix Злой из команды белых вступает в бой!
+Terrakion Косой Использует Close Combat. 
+Steelix Злой теряет 20 здоровья.
+Terrakion Косой уменьшает защиту.
+Terrakion Косой уменьшает специальную защиту.
+Steelix Злой теряет сознание.
+Victreebel Хромой из команды белых вступает в бой!
+Terrakion Косой растерянно попадает по себе. 
+Terrakion Косой теряет 3 здоровья.
+
+Victreebel Хромой Использует Sludge Bomb. 
+Terrakion Косой теряет 3 здоровья.
+Terrakion Косой отравлен
+Terrakion Косой теряет сознание.
+Weepinbell Глухой из команды полосатых вступает в бой!
+Victreebel Хромой Использует Venoshock. 
+Weepinbell Глухой теряет 7 здоровья.
+
+Weepinbell Глухой Использует Sludge Bomb. 
+Victreebel Хромой теряет 8 здоровья.
+
+Victreebel Хромой Использует Acid. 
+Weepinbell Глухой теряет 7 здоровья.
+Weepinbell Глухой теряет сознание.
+В команде полосатых не осталось покемонов.
+Команда белых побеждает в этом бою!
+
+Process finished with exit code 0
